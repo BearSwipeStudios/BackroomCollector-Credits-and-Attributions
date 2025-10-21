@@ -4,19 +4,20 @@ Some models, sounds and images used in the trailer and game come from sources un
 It is intended to provide transparency and give proper credit to the original creators of the assets used.  
 All resources remain the property of their respective authors.
 
+---
+
 ## 3D Models
 - 
 - 
----
 
 ## Sounds
 - 
 - 
----
 
 ## Images
 -
 - 
+
 ---
 
 © 2025 Bear Swipe Studios – This document is for informational purposes only.
