@@ -33,6 +33,7 @@ Your work inspires us and countless others in the community. ❤️🐾
 - "Doors Pack" (https://skfb.ly/pq8vO) by Gnossiennes is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 - "Palace Cage Furniture Assets" (https://skfb.ly/oOUpS) by Samuel F. Johanns (Oneironauticus) is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 - "The Bathroom (Free)" (https://skfb.ly/6ZYYo) by Evan is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+- "Antique Classical Pedestal Stands Type A" (https://sketchfab.com/3d-models/antique-classical-pedestal-stands-type-a-7e4301fd8c0e46a79c6bc99fbbe90517) by Mad_Lobster_Workshop is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 - "Electric Door Key - 5MB" (https://skfb.ly/oVZqG) by Mehdi Shahsavan is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 - "Wig Mannequin" (https://skfb.ly/o6ovp) by sara3dbear is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 - "Thermomètre train CIWL" (https://skfb.ly/oouKD) by Ely HADDAD is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
@@ -48,13 +49,21 @@ Your work inspires us and countless others in the community. ❤️🐾
 - "Ye Trusty Plank" (https://skfb.ly/oA8Mo) by CatgirlNotLive is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 - "Nail" (https://skfb.ly/oGGr7) by Jvdm78 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 - "Bookcase" (https://skfb.ly/oHzHr) by igi is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+- "Wooden Playground Horse" (https://skfb.ly/o6Zv9) by Batuhan13 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+- "Mutant Head" (https://skfb.ly/oEUA9) by Dvacherashka is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+- "Thalidomide" (https://skfb.ly/6TKxE) by Tamko Dmitry - Freelance 3d Character Artist is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+- "Cube Fraction 🧊" (https://skfb.ly/pyIw9) by smice is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+- "Museum Showcase - Die Vitrine" (https://skfb.ly/oLr6A) by Samuel F. Johanns (Oneironauticus) is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+- "Face Decorative Screaming Statue 3DScan" (https://skfb.ly/oIUBG) by ustoopia is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+- "CUBB" (https://skfb.ly/oSZUo) by Tamko Dmitry - Freelance 3d Character Artist is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+- "Pig Demon" (https://skfb.ly/66ULS) by Lexington Dath is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
   
 ## Sounds
-- 
+- Flash charging.wav by Franq -- https://freesound.org/s/97151/ -- License: Attribution 4.0
 - 
 
 ## Images
--
+- <a href="https://www.vecteezy.com/free-png/nebula">Nebula PNGs by Vecteezy</a>
 - 
 
 ---
