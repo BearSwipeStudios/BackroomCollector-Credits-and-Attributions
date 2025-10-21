@@ -59,8 +59,16 @@ Your work inspires us and countless others in the community. ❤️🐾
 - "Pig Demon" (https://skfb.ly/66ULS) by Lexington Dath is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
   
 ## Sounds
-- Flash charging.wav by Franq -- https://freesound.org/s/97151/ -- License: Attribution 4.0
-- 
+- <a href="https://freesound.org/people/Franq/sounds/97151/">Flash charging.wav</a> by <a href="https://freesound.org/people/Franq/">Franq</a> | License: <a href="https://creativecommons.org/licenses/by/4.0/">Attribution 4.0</a>
+- <a href="https://freesound.org/people/NoAiOne/sounds/372917/">panning knock-knock.wav</a> by <a href="https://freesound.org/people/NoAiOne/">NoAiOne</a> | License: <a href="http://creativecommons.org/publicdomain/zero/1.0/">Creative Commons 0</a>
+- <a href="https://freesound.org/people/CorneRoose/sounds/654182/">camera lens zooming.mp3</a> by <a href="https://freesound.org/people/CorneRoose/">CorneRoose</a> | License: <a href="http://creativecommons.org/publicdomain/zero/1.0/">Creative Commons 0</a>
+- <a href="https://freesound.org/people/saha213131/sounds/663648/">FlashLight ON.wav</a> by <a href="https://freesound.org/people/saha213131/">saha213131</a> | License: <a href="http://creativecommons.org/publicdomain/zero/1.0/">Creative Commons 0</a>
+- <a href="https://freesound.org/people/_stubb/sounds/406614/">Camera Flash_Crackle_Near_Mono.wav</a> by <a href="https://freesound.org/people/_stubb/">_stubb</a> | License: <a href="http://creativecommons.org/publicdomain/zero/1.0/">Creative Commons 0</a>
+- <a href="https://freesound.org/people/NenadSimic/sounds/157538/">Double Click</a> by <a href="https://freesound.org/people/NenadSimic/">NenadSimic</a> | License: <a href="http://creativecommons.org/publicdomain/zero/1.0/">Creative Commons 0</a>
+- <a href="https://freesound.org/people/ZNukem/sounds/697182/">Single Footstep</a> by <a href="https://freesound.org/people/ZNukem/">ZNukem</a> | License: <a href="http://creativecommons.org/publicdomain/zero/1.0/">Creative Commons 0</a>
+- <a href="https://freesound.org/people/nuFF3/sounds/477396/">Steps-Dirt_2b.OGG</a> by <a href="https://freesound.org/people/nuFF3/">nuFF3</a> | License: <a href="https://creativecommons.org/licenses/by/4.0/">Attribution 4.0</a>
+- <a href="https://freesound.org/people/Otakua/sounds/217933/">Clothes01.wav</a> by <a href="https://freesound.org/people/Otakua/">Otakua</a> | License: <a href="http://creativecommons.org/licenses/by/3.0/">Attribution 3.0</a>
+- <a href="https://freesound.org/people/baidonovan/sounds/187343/">Rubber Shoe Squeak.wav</a> by <a href="https://freesound.org/people/baidonovan/">baidonovan</a> | License: <a href="http://creativecommons.org/publicdomain/zero/1.0/">Creative Commons 0</a>
 
 ## Images
 - <a href="https://www.vecteezy.com/free-png/nebula">Nebula PNGs by Vecteezy</a>
