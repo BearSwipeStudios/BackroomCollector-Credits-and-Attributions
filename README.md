@@ -1,3 +1,9 @@
+# CREDITS #
+
+.....
+
+---
+
 # ATTRIBUTIONS #
 
 Some models, sounds and images used in the trailer and game come from sources under Creative Commons licenses and are used with attribution.
@@ -8,8 +14,6 @@ All resources remain the property of their respective authors.
 
 We would like to give our heartfelt thanks to everyone who shares their creations online, enabling indie developers to bring their visions to life.  
 Your work inspires us and countless others in the community. ❤️🐾
-
----
 
 ## 3D Models
 - "Potato Monster Head" (https://skfb.ly/o89xW) by Idmenthal is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
