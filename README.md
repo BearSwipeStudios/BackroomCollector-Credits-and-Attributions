@@ -110,7 +110,6 @@ Your work inspires us and countless others in the community. ❤️🐾
 
 ## Images
 - <a href="https://www.vecteezy.com/free-png/nebula">Nebula PNGs by Vecteezy</a>
-- 
 
 ---
 
