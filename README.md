@@ -4,6 +4,11 @@ Some models, sounds and images used in the trailer and game come from sources un
 It is intended to provide transparency and give proper credit to the original creators of the assets used.  
 All resources remain the property of their respective authors.
 
+# Special Thanks #
+
+We would like to give our heartfelt thanks to everyone who shares their creations online, enabling indie developers to bring their visions to life.  
+Your work inspires us and countless others in the community. ❤️🐾
+
 ---
 
 ## 3D Models
