@@ -78,6 +78,9 @@ Your work inspires us and countless others in the community. ❤️🐾
 - "Paper Low" (https://skfb.ly/68HYp) by bargin_bill_bradly is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 - "Box" (https://skfb.ly/6zMSS) by Artem Goyko is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 - "Metal School Lockers" (https://skfb.ly/oNWQA) by Zixel is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+- "Plague Doctor Mask" (https://skfb.ly/oSuZS) by crow is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+- "Red liquid creature (REALISTIC)" (https://skfb.ly/pwrDS) by Ido is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+- "FREE| Monster Demonic Sword" (https://skfb.ly/pAvHx) by nodgerty𓅂 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
   
 ## Sounds
 - <a href="https://freesound.org/people/Franq/sounds/97151/">Flash charging.wav</a> by <a href="https://freesound.org/people/Franq/">Franq</a> | License: <a href="https://creativecommons.org/licenses/by/4.0/">Attribution 4.0</a>
