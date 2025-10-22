@@ -71,6 +71,13 @@ Your work inspires us and countless others in the community. ❤️🐾
 - "Face Decorative Screaming Statue 3DScan" (https://skfb.ly/oIUBG) by ustoopia is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 - "CUBB" (https://skfb.ly/oSZUo) by Tamko Dmitry - Freelance 3d Character Artist is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 - "Pig Demon" (https://skfb.ly/66ULS) by Lexington Dath is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+- "Gold Pilot Wings Lapel Pin" (https://skfb.ly/otRBU) by trolosqlfod is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+- "PTish banana" (https://skfb.ly/6SuIx) by schmoldt.art is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+- "Tiny milk" (https://skfb.ly/pAYsW) by astre1l is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+- "book" (https://skfb.ly/6XWuQ) by maxdragonn is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+- "Paper Low" (https://skfb.ly/68HYp) by bargin_bill_bradly is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+- "Box" (https://skfb.ly/6zMSS) by Artem Goyko is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+- "Metal School Lockers" (https://skfb.ly/oNWQA) by Zixel is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
   
 ## Sounds
 - <a href="https://freesound.org/people/Franq/sounds/97151/">Flash charging.wav</a> by <a href="https://freesound.org/people/Franq/">Franq</a> | License: <a href="https://creativecommons.org/licenses/by/4.0/">Attribution 4.0</a>
@@ -121,6 +128,7 @@ Your work inspires us and countless others in the community. ❤️🐾
 - <a href="https://freesound.org/people/ddaedalus/sounds/418192/">Snoqualmie falls water falls.WAV</a> by <a href="https://freesound.org/people/ddaedalus/">ddaedalus</a> | License: <a href="http://creativecommons.org/publicdomain/zero/1.0/">Creative Commons 0</a>
 - <a href="https://freesound.org/people/Jovica/sounds/47714/">Wind 07.flac</a> by <a href="https://freesound.org/people/Jovica/">Jovica</a> | License: <a href="https://creativecommons.org/licenses/by/4.0/">Attribution 4.0</a>
 - <a href="https://freesound.org/people/newlocknew/sounds/608241/">Heart beat.Calm rhythm.Blood flows in the veins(6lrs).wav</a> by <a href="https://freesound.org/people/newlocknew/">newlocknew</a> | License: <a href="https://creativecommons.org/licenses/by/4.0/">Attribution 4.0</a>
+- <a href="https://freesound.org/people/16GVanekP/sounds/499203/">Swing.wav</a> by <a href="https://freesound.org/people/16GVanekP/">16GVanekP</a> | License: <a href="http://creativecommons.org/publicdomain/zero/1.0/">Creative Commons 0</a>
 
 ## Images
 - <a href="https://www.vecteezy.com/free-png/nebula">Nebula PNGs by Vecteezy</a>
