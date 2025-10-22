@@ -1,6 +1,16 @@
 # CREDITS #
 
-.....
+## Project Director / Programmer
+
+Andrés Galbán Méndez
+
+## Creative Artist / 3D Generalist
+
+Mónica Marín Martínez
+
+## Voice Actor
+
+Carlos Marín Martínez
 
 ---
 
