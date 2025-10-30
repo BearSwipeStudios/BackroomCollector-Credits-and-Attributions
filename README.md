@@ -28,6 +28,7 @@ Your work inspires us and countless others in the community. ❤️🐾
 ## 3D Models
 - "Potato Monster Head" (https://skfb.ly/o89xW) by Idmenthal is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 - "Ugly_Potato" (https://skfb.ly/ozJws) by Tamko Dmitry - Freelance 3d Character Artist is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+- "Realistic human eye" (https://skfb.ly/ooP8Q) by MisterH is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 - "Lesser Cyclops Variant Rig" (https://skfb.ly/osyqp) by DM-913 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 - "Borz, The Destroyer" (https://skfb.ly/6Zn7v) by Rooj is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 - "Shield Rig" (https://skfb.ly/pAEtu) by photon (that one larry) is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
